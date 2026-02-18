@@ -19,5 +19,5 @@ Spoken languages: English, Filipino (Basic), Korean (Basic)
 There's a wide variety, from simple web games like *CLOCKWORK*, to multi-platform apps like Dexern the Pokédex. If you're interested, take a look at my [portfolio].(https://sjlua.dev/portfolio).
 
 ### Connect with me
-🔗 Website: [sjlua.dev](https://sjlua.dev)
-🧑‍🧒‍🧒 LinkedIn: www.linkedin.com/in/sjlua
+* 🔗 Website: [sjlua.dev](https://sjlua.dev)
+* 🧑‍🧒‍🧒 LinkedIn: www.linkedin.com/in/sjlua
