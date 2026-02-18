@@ -1,10 +1,10 @@
-## Sean Lua
---
-📍 Melbourne, Australia
-📧 seanjlua10@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/sjlua
-💻 GitHub: sjlua
---
+## Sean Lua | Software Developer
+
+* 📍 Melbourne, Australia
+* 📧 seanjlua10@gmail.com
+* 🔗 www.linkedin.com/in/sjlua
+
+---
 
 ### About
 I'm an IT student who is interested in all sorts of technology, particularly mobile phones. I find mobile phones quite fascinating, as they manage to cram in so much tech in such a small package. My interest began with Android phones, especially GCam mods and custom ROMs, which led to my eventual interest in IT. I enjoy open-source software, with two of my favourites being Bitwarden, the Linux Kernel. 
