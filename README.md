@@ -16,7 +16,7 @@ Tools and infrastructure: Git, Ubuntu, Oracle Server, Figma
 Spoken languages: English, Filipino (Basic), Korean (Basic)
 
 ### Projects
-There's a wide variety, from simple web games like *CLOCKWORK*, to multi-platform apps like Dexern the Pokédex. If you're interested, take a look at my [portfolio].(https://sjlua.dev/portfolio).
+There's a wide variety, from simple web games like *CLOCKWORK*, to multi-platform apps like Dexern the Pokédex. If you're interested, take a look at my [portfolio](https://sjlua.dev/portfolio).
 
 ### Connect with me
 * 🔗 Website: [sjlua.dev](https://sjlua.dev)
