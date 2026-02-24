@@ -1,8 +1,7 @@
 ## Sean Lua | Software Developer
 
 * 📍 Melbourne, Australia
-* 📧 seanjlua10@gmail.com
-* 🔗 www.linkedin.com/in/sjlua
+* 🔗 [sjlua.dev](https://sjlua.dev)
 
 ---
 
